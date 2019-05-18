@@ -1,6 +1,7 @@
 # [IHU](https://www.ihu.edu.gr/)
 ## [MSc in Data Science](https://www.tech.ihu.edu.gr/index.php/en/msc-in-data-science)
 ### Coursework for EDA & Visualization
+##### Team Members: [Ioannis Stamatoudis](https://github.com/IoannisStamatoudis), [Georgios Xrysogonidis](https://github.com/GeorgiosChrysogonidis), [Vasilis Nikiforidis](https://github.com/VasilisNikiforidis)
 
 #### Intro
 For this coursework we decided to use the Tableau software, after trying out some other Visualization tools, like Excel, Python’s Seaborn and Matplotlib libraries, etc, for Visualisation.
